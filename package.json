@@ -1,0 +1,28 @@
+{
+  "name": "vorherr-bot",
+  "version": "1.0.1",
+  "description": "yeah",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "clean": "^4.0.2",
+    "discord-autorole-badges": "^1.1.0",
+    "discord-badges": "^1.1.1",
+    "discord-ytdl-core": "^5.0.2",
+    "discord.js": "^12.5.1",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "imageapi.js": "^1.3.2",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node": "^15.12.0",
+    "node-superfetch": "^0.1.11",
+    "translate-google": "^1.4.3",
+    "ytdl": "^1.4.1"
+  },
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "name",
+  "license": "ISC"
+}
